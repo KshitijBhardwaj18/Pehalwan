@@ -2,3 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,700&display=swap');
+
+
+.bg{
+    background-image: url("../public/assets/bg5.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+    
+
+}
+
+.font{
+    
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.text-heading{
+    font-size: 70px;
+    line-height: 1;
+}
+
+
